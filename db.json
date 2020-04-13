@@ -1,0 +1,25 @@
+{
+  "postagens": [
+    {
+      "conteudo": "testando a requisicao",
+      "data": "2020-04-13T23:24:32.817Z",
+      "dislikes": 0,
+      "likes": 1,
+      "id": 1
+    },
+    {
+      "conteudo": "testando a requisicao",
+      "data": "2020-04-13T23:24:33.541Z",
+      "dislikes": 0,
+      "likes": 1,
+      "id": 2
+    },
+    {
+      "conteudo": "testando a requisicao",
+      "data": "2020-04-13T23:24:46.293Z",
+      "dislikes": 0,
+      "likes": 1,
+      "id": 3
+    }
+  ]
+}
