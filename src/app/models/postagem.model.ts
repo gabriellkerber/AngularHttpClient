@@ -1,5 +1,5 @@
 export class Postagem{
-    id?: string;
+    id?: number;
     conteudo: string;
     data: Date;
     dataEdicao?: Date;

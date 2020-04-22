@@ -1,1 +1,8 @@
-<button (click)="novoPost()">CADASTRAR New POST</button>
+<form [formGroup]="formulario" (ngSubmit)="enviar()">
+
+        <input formControlName="conteudo">
+
+            <button type="submit">
+                ENVIAR
+            </button>
+</form>

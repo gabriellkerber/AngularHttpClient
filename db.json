@@ -1,25 +1,12 @@
 {
   "postagens": [
     {
-      "conteudo": "testando a requisicao",
-      "data": "2020-04-13T23:24:32.817Z",
+      "conteudo": "Gabriel Kerber",
+      "data": "2020-04-22T23:12:59.197Z",
       "dislikes": 0,
-      "likes": 1,
-      "id": 1
-    },
-    {
-      "conteudo": "testando a requisicao",
-      "data": "2020-04-13T23:24:33.541Z",
-      "dislikes": 0,
-      "likes": 1,
-      "id": 2
-    },
-    {
-      "conteudo": "testando a requisicao",
-      "data": "2020-04-13T23:24:46.293Z",
-      "dislikes": 0,
-      "likes": 1,
-      "id": 3
+      "likes": 25,
+      "id": 1,
+      "dataEdicao": "2020-04-22T23:13:17.148Z"
     }
   ]
 }
